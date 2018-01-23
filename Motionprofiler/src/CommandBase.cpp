@@ -8,6 +8,7 @@
 // line should be repeated for each subsystem in the project.
 //std::unique_ptr<ExampleSubsystem> CommandBase::exampleSubsystem =
 		//std::make_unique<ExampleSubsystem>();
+// test note
 
 std::unique_ptr<OI> CommandBase::oi = std::make_unique<OI>();
 
